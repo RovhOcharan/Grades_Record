@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Students Grade</string>
+    <string name="no_accounts">Not have account? <b>SignUp?</b></string>
+</resources>

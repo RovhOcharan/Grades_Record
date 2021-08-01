@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269001139712",
+    "project_id": "grades-record-app",
+    "storage_bucket": "grades-record-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269001139712:android:945d91eb3f0da9edcbdae5",
+        "android_client_info": {
+          "package_name": "com.example.studentsgrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269001139712-1m7cpf86lbca77b8c43mchpr88mtj4bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentsgrade",
+            "certificate_hash": "e526259f8dc8519403a02bd6966d9441caa82eb5"
+          }
+        },
+        {
+          "client_id": "269001139712-gcrgf6kvcj3d3riimkkg7n8k1v475rif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxAIgQL_r_YZM_oyZ0xKVhgRoaV9Bxtnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269001139712-gcrgf6kvcj3d3riimkkg7n8k1v475rif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
